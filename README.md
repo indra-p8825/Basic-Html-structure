@@ -48,4 +48,4 @@ This website consists of multiple pages with a **navigation bar** that links to 
 
 📌 **Created for learning HTML structuring. No styling applied.**  
 📅 **© All rights reserved 2025**
-# Basic-Html-structure
+
